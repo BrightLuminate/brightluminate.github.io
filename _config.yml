@@ -279,5 +279,10 @@ defaults:
       comments:  true
       share: true
       related: true
-
+      categories: coding
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fas fa-tired"
+      author_profile: false
 date_format: "%Y-%m-%d"
