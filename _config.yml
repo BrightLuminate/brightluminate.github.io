@@ -136,7 +136,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dohyeon428/"
-
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@DohyeonChoi?si=oPppFf7JEufqpxVO"
 
 
 # Reading Files
