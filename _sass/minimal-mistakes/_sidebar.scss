@@ -138,8 +138,12 @@
       max-height: 500px;
       border-radius: 15%;
       
+  
+      @include breakpoint($large) {
+       
+      }
     }
-    
+  }
 
 .author__content {
   display: table-cell;
