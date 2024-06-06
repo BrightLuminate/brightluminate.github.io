@@ -137,15 +137,8 @@
       max-width: 300px;
       max-height: 500px;
       border-radius: 15%;
-      background-color: blue;    
+      
   
-      @include breakpoint($large) {
-        padding: 5px;
-        border: 1px solid $border-color;
-      }
-    }
-  }
-
 .author__content {
   display: table-cell;
   vertical-align: top;
