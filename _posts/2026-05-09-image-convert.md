@@ -92,7 +92,7 @@ else:
 
 ## 실행 결과
 
-![sky]({{ site.baseurl }}/assets/images/2024-05-27-i/sky.png)
+![zps]({{ site.baseurl }}/assets/images/2024-05-01-e/zps.png)
 
 ---
 
