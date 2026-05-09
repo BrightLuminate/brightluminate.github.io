@@ -2,9 +2,10 @@
 layout: single
 title: "VFX Compositing Breakdown 01 - Green Screen Keying"
 date: 2026-05-09
-categories: vfx
+categories: vfx coding
 tag: [vfx, compositing, after-effects, nuke, green-screen, breakdown]
 author_profile: false
+
 ---
 
 ## VFX Compositing Breakdown 01 - Green Screen Keying
