@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "BrightLuminate"
+title                    : "Lumic"
 title_separator          : "|"
 subtitle                 : "새로운 도전을 좋아하고 끊임없이 변화하는 기술 세계에서 항상 배우고 성장하기 위해 노력합니다.<br>새로운 아이디어와 기술로 세상을 밝게 만들기 위해 노력합니다."
-name                     : "BrightLuminate"
+name                     : "Lumic"
 description              : #
 url                      : "https://brightluminate.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "BrightLuminate"
+    shortname            : "Lumic"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
