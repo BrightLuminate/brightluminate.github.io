@@ -7,7 +7,7 @@ tag: [vfx, compositing, after-effects, nuke, green-screen, breakdown]
 author_profile: false
 ---
 
-# VFX Compositing Breakdown 01 - Green Screen Keying
+## VFX Compositing Breakdown 01 - Green Screen Keying
 
 이번 작업은 그린스크린으로 촬영한 인물을 새로운 배경에 자연스럽게 합성하는 연습입니다.  
 Keying, Rotoscoping, Tracking, Color Correction 과정을 통해 인물과 배경이 어색하지 않도록 맞추는 것을 목표로 했습니다.
