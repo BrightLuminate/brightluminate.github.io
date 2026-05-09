@@ -4,7 +4,9 @@ title: "NumPy로 이미지 파일 변환하기"
 date: 2026-05-09
 categories: coding
 tags: [python, numpy, image-processing]
-author_profile: true
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 
 **[공지사항]** [지킬 블로그 공식 문서](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
