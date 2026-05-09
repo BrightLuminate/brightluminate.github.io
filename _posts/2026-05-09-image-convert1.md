@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "NumPy로 이미지 파일 변환하기"
+title: "예시"
 date: 2026-05-09
 categories: coding
 tag: [python, blog, jekyll, github]
