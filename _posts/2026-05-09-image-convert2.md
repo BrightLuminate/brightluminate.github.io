@@ -21,7 +21,7 @@ Keying, Rotoscoping, Tracking, Color Correction 과정을 통해 인물과 배�
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-bottom:30px;">
   <iframe 
-    src="https://youtube.com/shorts/gf95hvMvEN0?si=06LS64NeltMT_uzP"
+    src="https://www.youtube.com/embed/_0lcyyybbng?si=mTtAg_jfGldJxnGD"
     title="VFX Compositing Breakdown 01 - Green Screen Keying"
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
     frameborder="0"
