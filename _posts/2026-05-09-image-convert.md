@@ -92,8 +92,9 @@ else:
 
 ## 실행 결과
 
-![zps]({{ site.baseurl }}/assets/images/2024-05-01-e/zps.png)
-
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/2024-05-01-e/zps.png" alt="zps" style="width:1200px; max-width:100%;">
+</p>
 ---
 
 # 코드 설명
